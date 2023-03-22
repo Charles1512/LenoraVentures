@@ -5,7 +5,7 @@ import cenariopng from '../../imagens/cenario.png'
 export default function Set() {
     return (
         <SetStyled>
-            <img src={cenariopng} width={1920} style={{position:"absolute", bottom:-4350}}/>
+            <img src={cenariopng} alt='cenário'width={1920} style={{position:"absolute", bottom:-4350}}/>
             <p style={{position: 'absolute',
             left: 90,
             bottom: -3600,
