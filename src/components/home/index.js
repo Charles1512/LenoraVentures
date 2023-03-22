@@ -23,7 +23,7 @@ export default function Home() {
             color: 'grey', 
             fontStyle:'italic'}}>Implementar a economia circular 
             como um novo modelo econômico</p>
-            <img src={homepng} width={'99%'} height={'20%'} alt='lata de recicláveis'/>
+            <img src={homepng} width={'101%'} height={'20%'} alt='lata de recicláveis'/>
             <img src={saibamaispng} width={'15%'} alt='botão pra ver mais informações' style={{position:"absolute", left:90, bottom:-100, }}/>
 
         </SectionStyled>
