@@ -5,7 +5,7 @@ import oportunidadespng from '../../imagens/oportunidades.png'
 export default function Chance() {
     return (
         <ChanceStyled>
-            <img src={oportunidadespng} width={1920} alt='apresentação das oportunidades'/>
+            <img src={oportunidadespng} width={1900} alt='apresentação das oportunidades'/>
             <p style={{position: 'absolute',
             left: 300,
             bottom: -2150,

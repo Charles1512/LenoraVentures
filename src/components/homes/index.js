@@ -5,7 +5,7 @@ import quemsomospng from '../../imagens/quemsomos.png'
 export default function Homes() {
     return (
         <HomesStyled>
-            <img src={quemsomospng} width={2000} alt='duas pessoas segurando uma caixa de recicláveis'/>
+            <img src={quemsomospng} width={1900} alt='duas pessoas segurando uma caixa de recicláveis'/>
             <p style={{position: 'absolute',
             left: 1080,
             bottom: -1070,

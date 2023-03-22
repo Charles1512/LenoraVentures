@@ -30,6 +30,8 @@ export const HeaderStyled = styled.header`
             }
         }
 
-    
+        @media (max-width: 768px) {
+            flex-direction: column;
+  }
     
 `
